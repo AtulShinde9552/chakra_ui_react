@@ -9,6 +9,7 @@ import { FaMoon, FaSun } from 'react-icons/fa';
 
   return (
     <IconButton
+    zIndex={'overlay'}
    top= {'4'}
    right= {'4'}
    pos= {'fixed'}
